@@ -12,7 +12,7 @@ A responsive and stylish web-based To-Do List application built using **HTML**, 
     - to_do_list.css  # Styling with Flexbox & Poppins font
   - js file
     - to_do_list.js  # Interactive logic for task management
-  -readme.md         # Project documentation
+  - readme.md         # Project documentation
 
 
 ---
